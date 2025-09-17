@@ -1,2 +1,2 @@
-# -historia-colaborativa-conflictos
+# historia-colaborativa-conflictos
 Practica2
